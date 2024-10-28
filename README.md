@@ -19,7 +19,7 @@ Welcome to the **Travel Booking Backend**, a powerful API server designed for ma
 - **Media Storage**: Uses Cloudinary to manage user profile pictures and tour images.
 - **Asynchronous Messaging**: RabbitMQ handles inter-service communication for efficient, decoupled processing.
 
-## 🚀 Technology Stack
+## 🚀 Technology 
 
 ### Backend Technologies
 - **Node.js**: A JavaScript runtime built on Chrome's V8 engine, allowing for fast and scalable network applications. It's designed to build server-side applications and APIs.
